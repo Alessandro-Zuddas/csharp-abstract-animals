@@ -20,3 +20,8 @@ dog.Dormi();
 passero.Dormi();   
 eagle.Dormi();
 dolphin.Dormi();
+
+dog.Nuota();
+passero.Vola();
+eagle.Vola();
+dolphin.Nuota();
